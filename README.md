@@ -8,6 +8,6 @@ It has no log-in or authentication page. It only transfers money between multipl
     <li>Html</li>
     <li>Mysql</li>
     
-<u>Styling is done through:</u>
+<b><i>Styling is done through:</i></b>
     <li>CSS</li>
     <li>Bootstrap</li>
